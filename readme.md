@@ -1,4 +1,4 @@
-# Пример работы с Gson, Jackson, JAXBuilder
+# Пример работы с Gson, Jackson, JAXB
 
 Код приложения написанного на вебинаре 17.10.2023 для
 обучающей платформы [Skillbox](https://skillbox.ru)
@@ -28,7 +28,7 @@
 
 - [MainGson](src/main/java/org/example/MainGson.java) - пример работы с Gson
 - [MainJackson](src/main/java/org/example/MainJackson.java) - пример работы с Jackson
-- [MainXml](src/main/java/org/example/MainJackson.java) - пример работы с JAXB
+- [MainXml](src/main/java/org/example/MainXml.java) - пример работы с JAXB
 
 ## Локальный запуск
 
